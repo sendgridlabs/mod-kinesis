@@ -62,10 +62,10 @@
         <mods.directory>target/mods</mods.directory>
 
         <!--Dependency versions-->
-        <vertx.version>2.1.2</vertx.version>
+        <vertx.version>4.4.2</vertx.version>
         <version.vertx.testtools>2.0.3-final</version.vertx.testtools>
         <version.junit>4.11</version.junit>
-        <version.aws>1.8.9</version.aws>
+        <version.aws>1.8.12</version.aws>
         <version.mockito>1.9.5</version.mockito>
 
         <!--Plugin versions-->
